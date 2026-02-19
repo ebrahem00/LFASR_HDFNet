@@ -3,7 +3,7 @@ Hierarchical Decoupling–Fusion of Spatial and Angular Features for Light Field
 
 
 
-![NETWORK ARCHITECTURE](./Figures/NET.png)
+![NETWORK ARCHITECTURE](./Figures/Net.png)
 
 1. Requirement:
 PyTorch 2.0.1, torchvision 0.15.2. The code is tested with python=3.10.12, cuda=11.7.
